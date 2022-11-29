@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Christian, a **Machine Learning Engineer* (specializing in **Computer Vision**) from Germany. I am also pursuing my Bachelor in **Business Information Systems*.
+🎓 I am Christian, a *Machine Learning Engineer* (specializing in **Computer Vision**) from Germany. I am also pursuing my Bachelor in **Business Information Systems*.
 
 🛸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **calisthenics**, **trading** to **martial arts**
 
